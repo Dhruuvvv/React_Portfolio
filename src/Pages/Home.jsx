@@ -26,7 +26,7 @@ const Home = () => {
             transition={{duration:1,ease:"easeOut",delay:0.4}}
             className='text-2xl font-normal text-center text-gray-600 dark:text-gray-300 max-sm:text-lg max-lg:text-xl py-4'
           >
-            Explore my design services, from user interface and experience to prototyping and testing.
+            Explore significant design, from user interface and enhance experience to prototyping and testing.
           </motion.p>
           <motion.div
             initial={{opacity:0,y:50}}
