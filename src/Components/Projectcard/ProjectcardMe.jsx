@@ -29,7 +29,7 @@ const ProjectcardMe = () => {
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.5, delay: 0.2 }}
-                className="text-xl max-sm:text-sm max-sm:leading-relaxed max-sm:line-clamp-5 max-lg:text-3xl max-lg:line-clamp-4 max-lg:p-6"
+                className="text-xl max-sm:text-xs max-sm:leading-relaxed max-sm:line-clamp-4 max-lg:text-3xl max-lg:line-clamp-3 max-lg:leading-relaxed"
               >
                 Discover my personal space! Explore my journey, interests, and passions through this interactive and vibrant portfolio showcase.
               </motion.div>
