@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="60"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/motion-logo.svg" alt="Framer Motion" height="60"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="60"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="60"/>
+  <img src="https://img.shields.io/badge/Framer%2520Motion-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion" height="60" style="background-color:#fff; padding:8px; border-radius:8px;"/>
 </p>
 
 # React Portfolio
